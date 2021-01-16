@@ -19,6 +19,10 @@ Test Metrics
 
 <img width="400" alt="Test" src="https://user-images.githubusercontent.com/39801145/104791177-9b3e8a00-57bb-11eb-9c4e-85e01343d2f3.PNG">
 
+Confusion Matrix
+
+<img width="400" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/39801145/104791212-c032fd00-57bb-11eb-8c84-60bf10125b12.PNG">
+
 The Network Diagram
 
 ![Network Diagram](https://user-images.githubusercontent.com/39801145/104790940-988f6500-57ba-11eb-86c1-f794f7f0456a.png)
