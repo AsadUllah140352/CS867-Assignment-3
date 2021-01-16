@@ -7,4 +7,6 @@ The implementation is done using keras, and is done in Google Colaboratory, usin
 
 # Images in ReadMe
 
+The Learning Curve
+
 ![Learning Curve](https://user-images.githubusercontent.com/39801145/104790616-8a8d1480-57b9-11eb-834b-f00e47a41861.png)
