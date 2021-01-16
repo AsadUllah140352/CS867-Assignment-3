@@ -23,6 +23,10 @@ Confusion Matrix
 
 <img width="400" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/39801145/104791212-c032fd00-57bb-11eb-8c84-60bf10125b12.PNG">
 
+Classification Report 
+
+<img width="600" alt="Classification Report" src="https://user-images.githubusercontent.com/39801145/104791258-e789ca00-57bb-11eb-88c3-0bbf94f05cfa.PNG">
+
 The Network Diagram
 
 ![Network Diagram](https://user-images.githubusercontent.com/39801145/104790940-988f6500-57ba-11eb-86c1-f794f7f0456a.png)
