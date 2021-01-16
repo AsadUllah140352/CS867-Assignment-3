@@ -11,6 +11,10 @@ The Learning Curve
 
 ![Learning Curve](https://user-images.githubusercontent.com/39801145/104790616-8a8d1480-57b9-11eb-834b-f00e47a41861.png)
 
+Validation Metrics
+
+<img width="400" alt="Valid" src="https://user-images.githubusercontent.com/39801145/104791054-1a7f8e00-57bb-11eb-8933-50ecc080ab83.PNG">
+
 The Network Diagram
 
 ![Network Diagram](https://user-images.githubusercontent.com/39801145/104790940-988f6500-57ba-11eb-86c1-f794f7f0456a.png)
