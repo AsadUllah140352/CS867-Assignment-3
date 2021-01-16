@@ -5,3 +5,6 @@ This repository contains a CNN image classification method, which uses pre-train
 
 The implementation is done using keras, and is done in Google Colaboratory, using a GPU for higher processing. The code as well as the reults are available in jupyter notebook.
 
+# Images in ReadMe
+
+![Learning Curve](https://user-images.githubusercontent.com/39801145/104790616-8a8d1480-57b9-11eb-834b-f00e47a41861.png)
