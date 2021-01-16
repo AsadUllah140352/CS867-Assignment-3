@@ -1,0 +1,11 @@
+EXTRACTING THE FILE
+1. Unzip the file in the folder using winrar or 7zip software.
+2. A file will be extracted, named "vgg16_2.h5" - This is the weights file.
+
+USING THE FILE IN CODE
+1. Now, to use these weights in your code, after the model has been compiled, we usually train the model.
+
+2. However, we can bypass the training now and just load these weights instead of training, since the model has already 
+   been trained.
+
+3. We use the model.load_weights("vgg16_weights.h5") commands, and we will get the same results as of the training model.
