@@ -7,6 +7,10 @@ The implementation is done using keras, and is done in Google Colaboratory, usin
 
 # Table of Contents
 
+[VGG.ipynb](https://github.com/AsadUllah140352/CS867-Assignment-3/blob/main/VGG.ipynb) - The main Jupyter Notebook file <br />
+[Images](https://github.com/AsadUllah140352/CS867-Assignment-3/tree/main/images) - The Images folder <br />
+[Weights](https://github.com/AsadUllah140352/CS867-Assignment-3/tree/main/vgg16_weights) - The Weights folder 
+
 # Images in ReadMe
 
 The Learning Curve
